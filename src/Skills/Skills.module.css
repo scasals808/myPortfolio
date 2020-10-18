@@ -1,0 +1,12 @@
+.skillsBlock {
+    background-color: antiquewhite;
+}
+
+.skillsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+
+}

@@ -1,0 +1,12 @@
+.projectBlock {
+    background-color: burlywood;
+}
+
+.projectsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+
+}
